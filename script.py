@@ -31,7 +31,7 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @MRK_YT
+⭕️<b>Creater :</b> @G9037944937
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
