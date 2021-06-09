@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+AVA😎 @pdxmoviesmp4 ഗ്രൂപ്പിലെ എല്ലാം എല്ലാം :D
 
 Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
