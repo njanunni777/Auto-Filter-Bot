@@ -23,10 +23,10 @@
 [![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
-# Auto Filter Bot v1
+# AVA MADAM😎
 
-#### You can call this as an Auto Filter Bot if you like :D
-#### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+#### pdx മൂവീസ് mp4 groupile എല്ലാം എല്ലാം :D
+#### എന്നെ @pdxmoviesmp4 ചാനലിൽ മാത്രമേ യൂസ് ചെയ്യാൻ പറ്റു 😏!
 
 ## How to use the bot
 * Add user account to your channel !
@@ -41,7 +41,7 @@
 ## Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/njanunni777/Auto-Filter-Bot.git)
 
 
 
@@ -61,4 +61,4 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 [Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
 
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
+Thanks to [sachu]
